@@ -1,7 +1,10 @@
 package br.com.utfpr.core.evaluator;
 
+<<<<<<< HEAD
 import static org.junit.Assert.*;
 
+=======
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

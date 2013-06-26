@@ -19,8 +19,11 @@ public class Division extends Operator {
 		return operands[0] / operands[1];
 	}
 
+<<<<<<< HEAD
 	public static Logger getLogger() {
 		return LOGGER;
 	}
 
+=======
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 }

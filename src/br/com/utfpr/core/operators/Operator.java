@@ -1,5 +1,9 @@
 package br.com.utfpr.core.operators;
 
+<<<<<<< HEAD
+=======
+import java.util.logging.Logger;
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 
 public abstract class Operator implements Comparable<Operator> {
 

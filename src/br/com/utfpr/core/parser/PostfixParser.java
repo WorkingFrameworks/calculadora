@@ -12,7 +12,10 @@ import br.com.utfpr.core.operators.Multiplication;
 import br.com.utfpr.core.operators.Operator;
 import br.com.utfpr.core.operators.Sub;
 import br.com.utfpr.core.operators.Sum;
+<<<<<<< HEAD
 import br.com.utfpr.utils.Number;
+=======
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 
 public class PostfixParser extends Parser {
 
@@ -101,10 +104,13 @@ public class PostfixParser extends Parser {
 
 	}
 
+<<<<<<< HEAD
 	public static Logger getLogger() {
 		return LOGGER;
 	}
 
+=======
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 	
 
 }

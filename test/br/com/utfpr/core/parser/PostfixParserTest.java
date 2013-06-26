@@ -2,6 +2,11 @@ package br.com.utfpr.core.parser;
 
 import static org.junit.Assert.*;
 
+<<<<<<< HEAD
+=======
+import java.util.Arrays;
+
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

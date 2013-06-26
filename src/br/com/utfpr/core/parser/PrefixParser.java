@@ -17,9 +17,12 @@ public class PrefixParser extends Parser implements IParser {
 	public String[] parse(String input) {
 		throw new UnsupportedOperationException("Not yet implemented");
 	}
+<<<<<<< HEAD
 
 	public static Logger getLogger() {
 		return LOGGER;
 	}
+=======
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 	
 }

@@ -1,8 +1,15 @@
 package br.com.utfpr.core.calculator;
 
+<<<<<<< HEAD
 import static org.junit.Assert.*;
 
 import org.junit.*;
+=======
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+>>>>>>> 9df623da9dcd6c1e343d67fd72e0287236b7603b
 
 import br.com.utfpr.core.evaluator.IEvaluator;
 import br.com.utfpr.core.evaluator.PostfixEvaluator;
