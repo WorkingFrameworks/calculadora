@@ -1,0 +1,21 @@
+$ git config --global user.name r....
+
+$ git config --global user.email r..@..
+-----------------------------------﻿
+$ cd Desktop/
+
+$ cd ProjetoGit/
+
+$ git init
+
+$ git remote add origin git@example.com:my_project.git
+
+-------------------------------------------------------------------------
+$ git add .
+
+$ git commit -m "blabla"
+
+$ git pull origin master
+
+$ git push origin master
+
